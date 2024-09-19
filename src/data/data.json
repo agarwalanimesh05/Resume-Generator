@@ -1,0 +1,120 @@
+{
+  "name": "Animesh Agarwal",
+  "designation": "Associate Staff Engineer",
+  "intro_summary": "To be able to work in an efficient organisation that provides ample opportunities in order to achieve continuous development and growth of my skills and always Inspire me to Aspire for MORE.",
+  "intro_experience": "6+ years of Professional experience",
+  "social_profiles": {
+    "mail": "agarwalanimesh05@gmail.com",
+    "phone": "+91-9808403679",
+    "linkedin": "linkedin.com/in/animesh-agarwal-4767a4109",
+    "github": "github.com/agarwalanimesh05"
+  },
+  "work_experience": [
+    {
+      "title": "Associate Staff Engineer",
+      "company": "Nagarro",
+      "date": "06/2021 - Present",
+      "location": "Gurgaon, India",
+      "previous_titles": ["Senior Software Developer"]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Metacube Software Pvt. Ltd.",
+      "date": "01/2018 - 06/2021",
+      "location": "Jaipur, India",
+      "previous_titles": [
+        "Associate Software Engineer",
+        "Trainee Software Engineer"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sanchaar Comms (05/2023 – Present)",
+      "tasks": [
+        "Project involved developing different email templates for there order management and profile related emails and sms to keep customer in loop. Was extensively involved in requirement gathering, cross squad communication to precure different payloads to implement the templates.Created a dashboard to check the analytics for different banners.",
+        "Developed and led the implementation of email and SMS templates for order management and customer communications.",
+        "Was responsible for code reviews and resolving the doubts of other team members.",
+        "Spearheaded end-to-end processes, from requirement gathering to deployment, ensuring alignment with client needs.",
+        "Worked with multiple teams to acquire different payloads to getting the templates implemented.",
+        "Handled deployment on WCNP for dashboard and survey forms on WCNP.",
+        "Supported and contributed to agile software deployments."
+      ]
+    },
+    {
+      "title": "CSAT (Customer Satisfaction) (11/2021 – Present)",
+      "tasks": [
+        "Project involved creating email templates, survey form and dashboard for all the banners of Massmart and tracking them. Dashboard and survey forms were build on NextJS using AMCharts for as charting library.",
+        "Architected and developed a Next.js application for email templates, survey forms, and dashboards to track customer feedback across Massmart banners.",
+        "Led the project from requirement gathering to deployment, ensuring timely delivery and high-quality output.",
+        "Implemented and monitored server performance, resolving high CPU utilization and memory issues.",
+        "Collaborated with cross-functional teams to integrate survey forms via app and push notifications."
+      ]
+    },
+    {
+      "title": "Alerting Platform (08/2021 – 11/2021)",
+      "tasks": [
+        "Alerting Platform for detecting, mitigating and notifying operations, product managers and technical teams of the business issues.",
+        "Designed and implemented new features for an alerting platform, enhancing operational efficiency for business teams.",
+        "Worked on Initial project setup using Parcel and express.",
+        "Fixed Deployment issues.",
+        "Implementation of charts using AMCharts."
+      ]
+    },
+    {
+      "title": "Tier1 Financial Solutions (Tier1CRM) (06/2016 – 11/2020)",
+      "tasks": [
+        "TORONTO (Canada) based client with a BANKING sectored app & team size of 12-15 members",
+        "Part of DEVELOPER team of hybrid app supported on Web, Phone & Tablet based on Sencha ExtJS & Cordova stack",
+        "Salesforce based CRM app used by major banks like Barclays, Royal Bank Of Canada (RBC), AllianceBernstein (AB), Toronto-Dominion (TD)",
+        "Task to facilitate in all the development tasks targeted to support most of the MOBILE DEVICES surveiling performance",
+        "Integration of different frameworks and all the issues encountered.",
+        "Performance related issues debugging"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Tech",
+    "specialization": "Computer Science",
+    "college": "Hindustan College of science and technology",
+    "university": "AKTU",
+    "date": "08/2014 – 07/2018",
+    "location": "Agra"
+  },
+  "technical_skills": [
+    "Next.js",
+    "React.js",
+    "Redux",
+    "Tailwind CSS",
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Javascript",
+    "MJML",
+    "Typescript",
+    "Jest",
+    "React Testing Library",
+    "Material UI React",
+    "jQuery",
+    "Git"
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "Professional Working Proficiency"
+    }
+  ],
+  "interests": ["Cricket", "Badminton", "Gaming", "Trekking"],
+  "summary": [
+    "6+ years of Professional experience",
+    "Substantially worked with Javascript & its related technologies/frameworks",
+    "Led the Comms module's CSAT module of one of the largest ecpmm site of South Africa",
+    "Worked extensively on React and NextJS",
+    "Appreciated as a Trainer for imparting knowledge to new recruits regarding Web Development technologies"
+  ]
+}

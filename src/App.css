@@ -1,0 +1,204 @@
+:root {
+  --main-color: #366cae;
+}
+
+.Header {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+
+.Header-img {
+  height: 150px;
+  border-radius: 50%;
+  padding: 20px 40px;
+  margin-left: 20px;
+}
+
+.Intro {
+  flex: 3;
+  margin: auto;
+  padding: 10px;
+}
+
+.Intro>div {
+  margin: 5px 0;
+}
+
+.Intro .Intro-name {
+  font-size: 34px;
+  margin-left: -2px;
+}
+
+.Intro-designation {
+  font-size: 20px;
+  color: var(--main-color);
+  font-weight: 500;
+}
+
+.Intro-summary {
+  font-size: 15px;
+}
+
+.Intro-experience {
+  font-size: 14px;
+  color: var(--main-color);
+}
+
+.Social {
+  background-color: var(--main-color);
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  display: flex;
+}
+
+.Social>div {
+  flex: 1;
+}
+
+.Social ul {
+  font-size: 14px;
+  list-style-type: none;
+  margin: 0;
+}
+
+.Social li {
+  line-height: 2.5em;
+}
+
+.SocialItem-icon {
+  margin-right: 15px;
+  font-size: 16px;
+  text-align: center;
+  min-width: 20px;
+}
+
+.SocialItem-link {
+  text-decoration: none;
+  color: white;
+}
+
+.Chips {
+  /* margin: 10px 0; */
+  padding: 0 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Chips-item {
+  margin: 5px 10px 0 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.Section {
+  padding: 5px;
+  margin: 5px 0;
+}
+
+.Section-title {
+  font-size: 21px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--main-color);
+}
+
+.App-two-panel {
+  /* display: flex; */
+  padding: 16px 16px 10px 45px;
+  column-count: 2;
+  column-gap: 40px;
+}
+
+/* .App-two-panel>div {
+  flex: 1;
+  padding-left: 35px;
+} */
+
+.Post {
+  margin: 5px 0;
+  padding: 5px 0;
+}
+
+.Post-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Post-subtitle {
+  font-size: 18px;
+}
+
+.Post-date-location {
+  font-size: 12px;
+  color: var(--main-color);
+}
+
+.Post-location {
+  float: right;
+}
+
+.List {
+  padding: 10px 0;
+}
+
+.List-title-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.List-title {
+  font-size: 15px;
+}
+
+.List-title-desc {
+  font-size: 12px;
+  color: var(--main-color);
+}
+
+.List-subtitle {
+  font-size: 12px;
+  color: var(--main-color);
+}
+
+.List-items {
+  padding-left: 0;
+  margin-block-start: 5px;
+  margin-block-end: 5px;
+  list-style-type: none;
+}
+
+.List-items>li {
+  font-size: 12px;
+  margin: 5px 0;
+  font-weight: 500;
+  display: flex;
+}
+
+.List-items>li:before {
+  content: "o";
+  padding-right: 8px;
+  color: var(--main-color);
+  font-weight: 600;
+}
+
+.TwoMiniPost {
+  display: flex;
+  padding: 10px 0;
+}
+
+.MiniPost {
+  flex: 1;
+}
+
+.MiniPost-title {
+  font-size: 14px;
+}
+
+.MiniPost-subtitle {
+  font-size: 12px;
+  color: var(--main-color);
+}
